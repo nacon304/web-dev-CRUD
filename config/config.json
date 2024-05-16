@@ -11,7 +11,7 @@
         "rejectUnauthorized": false
       }
     },
-    "port": 5433
+    "port": 5432
   },
   "test": {
     "username": "root",
@@ -32,6 +32,6 @@
         "rejectUnauthorized": false
       }
     },
-    "port": 5433
+    "port": 5432
   }
 }
